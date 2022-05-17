@@ -39,7 +39,8 @@ Supported operations:
 
 ## Python Controller
 
-To simply the control process, we also provide a Python controller, which can not only spawn/terminate MPP modules, but also build/destroy networks Usage:
+To simply the control process, we also provide a Python controller, which can not only spawn/terminate MPP modules, but also build/destroy networks. 
+Usage:
 ```
 python3 cli.py <config_file>
 ```
